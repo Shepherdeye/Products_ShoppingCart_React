@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.df7ccae1.css",
-    "main.js": "/static/js/main.d729fdad.js",
-    "static/media/bg.png": "/static/media/bg.b4671db29912933c472c.png",
-    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
-    "static/media/logo.png": "/static/media/logo.5b88992e46d485c92908.png",
-    "index.html": "/index.html",
-    "main.df7ccae1.css.map": "/static/css/main.df7ccae1.css.map",
-    "main.d729fdad.js.map": "/static/js/main.d729fdad.js.map"
+    "main.css": "/Products_ShoppingCart_React/static/css/main.7537a995.css",
+    "main.js": "/Products_ShoppingCart_React/static/js/main.2d87aa38.js",
+    "static/media/bg.png": "/Products_ShoppingCart_React/static/media/bg.b4671db29912933c472c.png",
+    "static/media/bootstrap-icons.woff?": "/Products_ShoppingCart_React/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/Products_ShoppingCart_React/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/logo.png": "/Products_ShoppingCart_React/static/media/logo.5b88992e46d485c92908.png",
+    "index.html": "/Products_ShoppingCart_React/index.html",
+    "main.7537a995.css.map": "/Products_ShoppingCart_React/static/css/main.7537a995.css.map",
+    "main.2d87aa38.js.map": "/Products_ShoppingCart_React/static/js/main.2d87aa38.js.map"
   },
   "entrypoints": [
-    "static/css/main.df7ccae1.css",
-    "static/js/main.d729fdad.js"
+    "static/css/main.7537a995.css",
+    "static/js/main.2d87aa38.js"
   ]
 }
